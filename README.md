@@ -26,23 +26,19 @@ A base de dados foi estruturada focando no relacionamento direto entre a Empresa
 
 ## Contratos de Integração (API)
 
-Para facilitar o desenvolvimento em paralelo, já definimos o contrato da rota principal do motor de inteligência.
+*A definir e estruturar em conjunto com a equipe de Back-end.*
 
-### `POST /match`
-Responsável por receber os dados da vaga e retornar a lista de candidatos pontuados pelo algoritmo anti-viés.
+---
 
-**Request (Front-end envia):**
-```json
-{
-  "empresa_id": 1,
-  "vaga": {
-    "titulo": "Desenvolvedor Backend",
-    "skills": ["Java", "Python"],
-    "nivel": "Junior",
-    "regiao": "Lauro de Freitas"
-  },
-  "filtros": {
-    "anti_vies": true,
-    "diversidade_minima": true
-  }
-}
+## Stack Tecnológica 
+- Front-end: (A definir com a equipe)
+- Back-end: (A definir com a equipe)
+- Banco de Dados: (A definir com a equipe)
+- Integrações: API Vísent (Mapa interativo) & IA Generativa (Filtro de viés)
+
+---
+
+## Como rodar o projeto localmente
+1. Faça o clone do repositório.
+2. Crie um arquivo `.env` na raiz do projeto baseado no `.env.example`.
+3. (Instruções de inicialização do servidor serão adicionadas pela equipe em breve).
