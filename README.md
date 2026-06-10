@@ -32,7 +32,7 @@ A base de dados foi estruturada focando no relacionamento direto entre a Empresa
 
 ## Stack Tecnológica 
 - Front-end: (A definir com a equipe)
-- Back-end: (A definir com a equipe)
+- Back-end: Python (FastAPI/Flask)
 - Banco de Dados: (A definir com a equipe)
 - Integrações: API Vísent (Mapa interativo) & IA Generativa (Filtro de viés)
 
