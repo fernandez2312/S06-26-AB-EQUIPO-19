@@ -24,7 +24,7 @@ Este projeto é um MVP de plataforma B2B que conecta empresas com metas ESG a ta
 
 Empresas com metas ESG não conseguem encontrar e contratar talentos de grupos sub-representados de forma eficiente e sem viés.
 
-Nossa solução: um portal B2B onde empresas publicam vagas com filtros de diversidade, e um agente de IA retorna uma shortlist de candidatos com **score de compatibilidade técnica** e **badge de diversidade geográfica** — sem expor atributos pessoais ao processo de seleção.
+Nossa solução: um portal B2B onde empresas publicam vagas com filtros de diversidade, e um agente de IA retorna uma shortlist de candidatos com **score de compatibilidade técnica** e **badge de diversidade geográfica**, sem expor atributos pessoais ao processo de seleção.
 
 ---
 
@@ -48,7 +48,7 @@ Nossa arquitetura separa claramente as responsabilidades de interface, lógica d
 
 A base de dados foi estruturada focando no relacionamento direto entre Empresa, Vaga e Candidato, centralizando o histórico de matching na tabela `Match_Score`.
 
-O schema cobre os 5 módulos do ecossistema App BiT: Empregabilidade, Formações, Experiências Estruturantes, Mentorias e Saúde do Time — além da integração com o dataset Vísent CDRView.
+O schema cobre os 5 módulos do ecossistema App BiT: Empregabilidade, Formações, Experiências Estruturantes, Mentorias e Saúde do Time, além da integração com o dataset Vísent CDRView.
 
 <img width="624" height="546" alt="Diagrama de Classes" src="https://github.com/user-attachments/assets/7542c629-c82e-4328-a726-3e2463ca71af" />
 
