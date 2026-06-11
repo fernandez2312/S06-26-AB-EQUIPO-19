@@ -59,11 +59,11 @@ O schema cobre os 5 módulos do ecossistema App BiT: Empregabilidade, Formaçõe
 | Camada | Tecnologia | Status |
 |--------|-----------|--------|
 | Back-end | Python | ✅ Definido (votação da equipe, 75%) |
-| Front-end | A definir com a equipe | ⏳ Pendente |
-| Banco de Dados | A definir com a equipe | ⏳ Pendente |
-| Motor de IA | A definir com a equipe | ⏳ Pendente |
-| Dados Geográficos | A definir com a equipe | ⏳ Pendente |
-| Deploy | A definir com a equipe | ⏳ Pendente |
+| Front-end | React.js | ✅ Definido (votação da equipe, 100%) |
+| Banco de Dados | MySQL | ✅ Definido (votação da equipe, 50%) |
+| Motor de IA | API do Google AI Studio / Gemini | ✅ Definido (votação da equipe, 100%) |
+| Dados Geográficos | Visent / Mapa interativo real | ✅ Definido (votação da equipe, 75%) |
+| Deploy | Render | ✅ Definido (votação da equipe, 75%) |
 
 ---
 
