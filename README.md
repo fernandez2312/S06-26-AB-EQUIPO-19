@@ -234,7 +234,7 @@ S06-26-AB-EQUIPO-19/
 | Geordani Machado | Frontend Developer | — |
 | Wesley Muniz França | Graphic Designer | — |
 | Erick Levi Souza Machado | Game Developer | — |
-| Fernando Henrique Pereira Fernandez | Data Analyst | — |
+| Fernando Henrique Pereira Fernandez | Data Analyst | [@fernandez2312](https://github.com/fernandez2312) |
 | Carlos André Alves Bezerra | Backend Developer | — |
 
 ---
